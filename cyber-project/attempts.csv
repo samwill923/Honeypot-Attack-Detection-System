@@ -1,0 +1,25 @@
+timestamp,src_ip,src_port,dst_port,recv_preview,banner_sent
+2025-11-25T05:58:34.231238Z,127.0.0.1,64772,8080,GET / HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.7019\r\nHost: localhost:8080\r\nConnection: Keep-Alive\r\n\r\n,"HTTP/1.1 200 OK\nServer: tiny-demo\n\n"
+2025-11-25T06:00:13.521769Z,127.0.0.1,59139,2222,GET / HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.7019\r\nHost: localhost:2222\r\nConnection: Keep-Alive\r\n\r\n,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T06:01:02.482010Z,127.0.0.1,49734,2222,"GET / HTTP/1.1\r\nHost: localhost:2222\r\nConnection: keep-alive\r\nsec-ch-ua: ""Chromium"";v=""142"", ""Google Chrome"";v=""142"", ""Not_A Brand"";v=""99""\r\nsec-ch-ua-mobile: ?0\r\nsec-ch-ua-platform: ""Windows""\r\nDNT: 1\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537","SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T06:01:03.601993Z,127.0.0.1,53600,2222,"GET / HTTP/1.1\r\nHost: localhost:2222\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nsec-ch-ua: ""Chromium"";v=""142"", ""Google Chrome"";v=""142"", ""Not_A Brand"";v=""99""\r\nsec-ch-ua-mobile: ?0\r\nsec-ch-ua-platform: ""Windows""\r\nDNT: 1\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; W","SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T06:01:04.100079Z,127.0.0.1,60669,2222,"GET / HTTP/1.1\r\nHost: localhost:2222\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nsec-ch-ua: ""Chromium"";v=""142"", ""Google Chrome"";v=""142"", ""Not_A Brand"";v=""99""\r\nsec-ch-ua-mobile: ?0\r\nsec-ch-ua-platform: ""Windows""\r\nUpgrade-Insecure-Requests: 1\r\nDNT: 1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; W","SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T06:01:05.921912Z,127.0.0.1,61719,2222,,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T06:01:22.012264Z,127.0.0.1,58609,2222,"GET / HTTP/1.1\r\nHost: localhost:2222\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nsec-ch-ua: ""Chromium"";v=""142"", ""Google Chrome"";v=""142"", ""Not_A Brand"";v=""99""\r\nsec-ch-ua-mobile: ?0\r\nsec-ch-ua-platform: ""Windows""\r\nDNT: 1\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; W","SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T06:11:45.730317Z,192.168.1.107,41105,2222,SIM_ATTACK_PAYLOAD,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T06:17:16.311776Z,192.168.1.188,41436,2222,SIM_ATTACK_PAYLOAD,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T06:17:16.559251Z,192.168.1.188,41436,2222,SIM_ATTACK_PAYLOAD,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T09:23:15.913603Z,192.168.1.97,52595,2222,SIM_ATTACK_PAYLOAD,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T09:23:16.363392Z,192.168.1.98,52596,2222,SIM_ATTACK_PAYLOAD,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T09:23:16.750820Z,192.168.1.98,52596,2222,SIM_ATTACK_PAYLOAD,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T09:23:17.151490Z,192.168.1.99,52597,2222,SIM_ATTACK_PAYLOAD,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T09:23:17.527575Z,192.168.1.99,52597,2222,SIM_ATTACK_PAYLOAD,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T09:23:17.914111Z,192.168.1.99,52597,2222,SIM_ATTACK_PAYLOAD,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T09:39:40.826140Z,192.168.1.82,53580,22,SIM_ATTACK_PAYLOAD,Welcome
+2025-11-25T09:39:43.902385Z,192.168.1.85,53583,80,SIM_ATTACK_PAYLOAD,Welcome
+2025-11-25T09:39:50.976427Z,192.168.1.92,53590,2222,SIM_ATTACK_PAYLOAD,"SSH-2.0-OpenSSH_7.9p1 Fake\n"
+2025-11-25T09:39:58.004820Z,192.168.1.100,53598,22,SIM_ATTACK_PAYLOAD,Welcome
+2025-11-25T14:29:58.921535Z,192.168.1.250,45998,22,SIM_ATTACK_PAYLOAD,Welcome
+2025-11-25T14:30:02.086783Z,192.168.1.4,46002,80,SIM_ATTACK_PAYLOAD,Welcome
+2025-11-25T14:33:52.587182Z,192.168.1.234,46232,80,SIM_ATTACK_PAYLOAD,Welcome
+2025-11-25T14:33:54.166746Z,192.168.1.236,46234,22,SIM_ATTACK_PAYLOAD,Welcome
