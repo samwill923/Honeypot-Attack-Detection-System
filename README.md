@@ -108,7 +108,6 @@ http://localhost:3000
 
 ##  License
 
-MIT License  
 Permission to be taken before use
 
 
